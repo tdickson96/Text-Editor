@@ -1,13 +1,20 @@
 {
     "name": "JATE",
     "version": "1.0.0",
-    "description": "",
+    "description": "Just Another Text Editor is an online and offline app that allows users to edit text",
     "main": "server.js",
     "scripts": {
         "server": "nodemon server.js --ignore client"
     },
-    "keywords": [],
-    "author": "",
+    "keywords": [
+        "Progressive",
+        "Web",
+        "Application",
+        "Text-editor",
+        "PWA",
+        "JATE"
+    ],
+    "author": "Trent Dickson",
     "license": "ISC",
     "dependencies": {
         "express": "^4.17.1"
