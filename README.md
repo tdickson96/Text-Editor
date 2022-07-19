@@ -1,4 +1,4 @@
-# <Your-Project-Title>
+# <Just Another Text Editor>
 
 ## Description
 
